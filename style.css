@@ -21,14 +21,14 @@
 .menu {
     list-style: none;
     display: flex;
-    gap: 20px;
+    gap: black;
 }
 
 .menu a {
     font-size: 1.2em;
     color: White;
     text-decoration: none;
-    padding: 8px 12px;
+    padding: black;
 }
 
 .menu a:hover {
