@@ -21,7 +21,7 @@
 .menu {
     list-style: none;
     display: flex;
-    gap: black;
+    gap: 40px;
 }
 
 .menu a {
